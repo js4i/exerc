@@ -1,0 +1,264 @@
+{
+	"assinado": true,
+	"autXMLs": "[]",
+	"transacao": {
+		"dataAutorizacao": {
+			"$date": 1588178347000
+		},
+		"dataTransmissao": {
+			"$date": 1588162646000
+		},
+		"chaveAcesso": "9999999999999999999999999999999999999999999",
+		"idXmlNfce": "9999999999999999999999999999999999999999999",
+		"protocoloAutorizacao": "999999999999999",
+		"situacao": "Enviada em contingência",
+		"status": "Enviada em contingência",
+		"tipo": "ENVIADO_CONTINGENCIA",
+		"numeroDocumentoFiscal": 45954,
+		"valorTotal": 24.67
+	},
+	"dataalteracao": "2020-04-29T19:42:03Z",
+	"datainclusao": "2020-04-29T19:42:03Z",
+	"dets": [{
+			"prod": {
+				"cProd": "3006",
+				"cean": "SEM GTIN",
+				"xProd": "FRANGO CONGELADO SAD",
+				"ncm": "22011000",
+				"cest": "0000100",
+				"cfop": "5405",
+				"uCom": "UN",
+				"qCom": "2.458",
+				"vUnCom": "7.15",
+				"vProd": "17.57",
+				"ceanTrib": "SEM GTIN",
+				"uTrib ": "UN",
+				"qTrib": "2.458",
+				"vUnTrib": "7.15",
+				"indTot": "1",
+				"rastros": []
+			},
+			"imposto": {
+				"vTotTrib": "0.0",
+				"icms": {
+					"icmssn500": {
+						"orig": "0",
+						"csosn": "500"
+					}
+				}
+			},
+			"nItem": "1"
+		},
+		{
+			"prod": {
+				"cProd": "15574",
+				"cean": "SEM GTIN",
+				"xProd": "SEQUILHOGRS",
+				"ncm": "22011000",
+				"cest": "0000100",
+				"cfop": "5405",
+				"uCom": "UN",
+				"qCom": "0.1",
+				"v UnCom": "10.0",
+				"vProd": "1.0 ",
+				"ceanTrib ": "SEM GTIN",
+				"uTrib": "UN",
+				"qTrib": "0.1",
+				"vUnTrib": "10.0",
+				"indTot": "1",
+				"rastros": []
+			},
+			"imposto": {
+				"vTotTrib": 0.0,
+				"icms": {
+					"icmssn500": {
+						"orig": 0,
+						"csosn": "500"
+					}
+				}
+			},
+			"nItem": "2"
+		},
+		{
+			"prod": {
+				"cProd": "40814",
+				"cean": "SEM GTIN",
+				"xProd": "BISC MINI MAIZENA40",
+				"ncm": "22011000",
+				"cest": "0000100 ",
+				"cfop ": "5102",
+				"uCom": "UN",
+				"qCom": "1.0",
+				"vUnCom": "3.2",
+				"vProd": "3.2",
+				"ceanTrib": "SEM GTIN",
+				"uTrib": "UN",
+				"qTrib": "1.0",
+				"vUnTrib": "3.2",
+				"indTot": "1",
+				"rastros": []
+			},
+			"imposto": {
+				"vTotTrib": "0.0",
+				"icms": {
+					"icmssn102": {
+						"orig": "0",
+						"csosn": "102"
+					}
+				}
+			},
+			"nItem ": "3"
+		}, {
+			"prod": {
+				"cPro d": "40336",
+				"cean": "SEM GTIN",
+				"xProd": "PIPOCA DOCE 100 G",
+				"ncm": "22011000",
+				"cest": "0000100",
+				"cfop": "5102",
+				"uCom": "UN",
+				"qCom": "1.0",
+				"vUnCom": "1.3",
+				"vProd": "1.3",
+				"ceanTrib": "SEM GTIN",
+				"uTrib": "UN",
+				"qTrib": "1.0",
+				"vUnTrib": "1.3",
+				"indTot": "1",
+				"rastros ": []
+			},
+			"imposto": {
+				"vT otTrib": "0.0",
+				"icms": {
+					"icmssn102": {
+						"orig": "0",
+						"csosn": "102"
+					}
+				}
+			},
+			"nItem": "4"
+		}, {
+			"prod": {
+				"cProd": "40337",
+				"cean": "SEM GTIN",
+				"xProd": "PIPOCA DOCE 45 G",
+				"ncm": "22011000",
+				"cest": "0000100",
+				"cfop": "5102",
+				"uCom": "UN",
+				"qCom": "1.0",
+				"vUnCom": "0.8",
+				"vProd": "0.8",
+				"ceanTrib": "SEM GTIN",
+				"uTrib": "UN",
+				"qTrib": "1.0",
+				"vUnTrib": "0.8",
+				"indTot": "1",
+				"rastros": []
+			},
+			"imposto": {
+				"vT otTrib": "0.0",
+				"icms": {
+					"icmssn102": {
+						"orig": "0",
+						"csosn": "102"
+					}
+				}
+			},
+			"nItem": "5"
+		}, {
+			"prod": {
+				"cProd": "40337",
+				"cean": "SEM GTIN",
+				"xProd": "PIPOCA DOCE 45 G",
+				"ncm": "22011000",
+				"cest": "0000100",
+				"cfop": "5102",
+				"uCom ": "UN",
+				"qCom": "1.0",
+				"vUnCom": "0.8",
+				"vProd ": "0.8",
+				"ceanTrib": "SEM GTIN ",
+				"uTrib": "UN",
+				"qTrib": "1.0",
+				"vUnTrib": "0.8",
+				"indTot": "1",
+				"rastros": []
+			},
+			"imposto": {
+				"vT otTrib": "0.0",
+				"icms": {
+					"icmssn102": {
+						"orig": "0",
+						"csosn": "102"
+					}
+				}
+			},
+			"nItem": "6"
+		}
+	],
+	"emit": {
+		"cnpj": "1234567891234500001",
+		"xNome": "PADARIA PADARIA XPTO ME ",
+		"xFant": "PADARIA XPTO",
+		"enderEmit": {
+			"xLgr": "PRAÇA DA SÉ",
+			"nro": "111",
+			"xBairro": "CENTRO",
+			"cMun": "2222222",
+			"xMun": "UBAIRA",
+			"uf": "SP",
+			"cep": "01001001",
+			"cPais": "1058",
+			"xPais": "BRASIL",
+			"fone": "1133333333"
+		},
+		"ie": "1400000",
+		"crt": "1"
+	},
+	"idinternalmdb": "NFe29999999999999999999999999999999999999991111",
+	"pag": {
+		"detPags": [{
+			"indPag": "0",
+			"tPag": "DINHEIRO",
+			"vPag": 24.67
+		}],
+		"vTroco": 0.33
+	},
+	"pdv": "0001",
+	"total": {
+		"icmsTot": {
+			"vbc": 0.0,
+			"vicms": 0.0,
+			"vicmsDeson": 0.0,
+			"vfcpufDest": 0.0,
+			"vicmsufDest": 0.0,
+			"vicmsufRemet": 0.0,
+			"vfcp": 0.0,
+			"vbcst": 0.0,
+			"vst": 0.0,
+			"vfcpst": 0.0,
+			"vfcpstRet": 0.0,
+			"vProd": 24.67,
+			"vFrete": 0.0,
+			"vSeg": 0.0,
+			"vDesc": 0.0,
+			"vii": 0.0,
+			"vipi": 0.0,
+			"vipiDevol": 0.0,
+			"vpis": 0.0,
+			"vcofins": 0.0,
+			"vOutro": 0.0,
+			"vnf": 24.67,
+			"vTotTrib": 0.0
+		}
+	},
+	"transp": {
+		"modFrete": "9",
+		"reboques ": [],
+		"vols": []
+	},
+	"validado": true,
+	"xmlMd5": "/H3bxxxxxxxxxx9Xee99XX=="
+}
+
